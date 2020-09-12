@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Martín Romera Sobrado. I'm a computer science engineering student at the National University of Distance Education (UNED) in Spain.
+
 <!--
 **n3m1-sys/n3m1-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
