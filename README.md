@@ -10,9 +10,7 @@ I'm getting specialized in cybersecurity, but I'm also interested in many other 
 
 I may not be the most active user of GitHub, because I usually have not very much time. But when I have time I like to work in the following projects:
 
-- I have an idea for a game, and I decided to develop it from scratch, and making it "more mine". Now I'm making the game engine, you can browse the code in the n3m1-sys/AdaEngine repository.
-
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=n3m1-sys&repo=AdaEngine)
+- I have an idea for a game, and I decided to develop it from scratch, and making it "more mine". Now I'm making the game engine, you can browse the code in the n3m1-sys/AdaEngine repository: https://github.com/n3m1-sys/AdaEngine
 
 ### My college projects
 
@@ -24,3 +22,8 @@ At this moment I have no college projects visible. But I will publish all the pr
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3m1-sys)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3m1-sys)](https://github.com/anuraghazra/github-readme-stats)
 
+### Donations
+
+Do you like what I do and want to support it? 
+Consider making a donation here: 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HEYSKQQA2R5XJ)
