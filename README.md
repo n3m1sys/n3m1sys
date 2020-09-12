@@ -24,6 +24,6 @@ At this moment I have no college projects visible. But I will publish all the pr
 
 ### Donations
 
-Do you like what I do and want to support it? 
-Consider making a donation here: 
+Do you like what I do and want to support it? Consider making a donation here: 
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HEYSKQQA2R5XJ)
