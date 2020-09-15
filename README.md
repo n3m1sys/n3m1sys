@@ -10,7 +10,7 @@ I'm getting specialized in cybersecurity, but I'm also interested in many other 
 
 I may not be the most active user of GitHub, because I usually have not very much time. But when I have time I like to work in the following projects:
 
-- I have an idea for a game, and I decided to develop it from scratch, and making it "more mine". Now I'm making the game engine, you can browse the code in the n3m1-sys/AdaEngine repository: https://github.com/n3m1-sys/AdaEngine
+- A game engine programmed in Ada: https://github.com/n3m1-sys/AdaEngine
 
 ### My college projects
 
