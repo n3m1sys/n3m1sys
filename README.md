@@ -14,7 +14,7 @@ I may not be the most active user of GitHub, because I usually have not very muc
 
 ### My college projects
 
-Note: All of this projects are documented in spanish
+Note: All of these projects are documented in spanish
 
 - https://github.com/n3m1-sys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
 
