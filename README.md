@@ -6,12 +6,6 @@ My name is Martín, I'm a computer science engineering student at the National U
 
 I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing, algorithms, compilers... I consider myself a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
 
-### What am I working on right now?
-
-I may not be the most active user of GitHub, because I usually have not very much time. But when I have time I like to work in the following projects:
-
-- A game engine programmed in Ada: https://github.com/n3m1-sys/AdaEngine
-
 ### My college projects
 
 Note: All of these projects are documented in spanish
