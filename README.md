@@ -14,8 +14,9 @@ I may not be the most active user of GitHub, because I usually have not very muc
 
 ### My college projects
 
-At this moment I have no college projects visible. But I will publish all the projects I make for college here, so other students may use them as a reference.
-(Many of these projects are and will be in spanish).
+Note: All of this projects are documented in spanish
+
+- https://github.com/n3m1-sys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
 
 ### My GiHub stats
 
