@@ -10,6 +10,7 @@ I'm getting specialized in cybersecurity, but I'm also interested in many other 
 
 Note: All of these projects are documented in spanish
 
+- https://github.com/n3m1-sys/Estad-PEC-Jun20-UNEDII-public : Some statistics exercises solved with an R Markdown notebook
 - https://github.com/n3m1-sys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
 
 ### My GiHub stats
