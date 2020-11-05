@@ -15,7 +15,6 @@ Note: All of these projects are documented in spanish
 
 ### My GiHub stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=n3m1-sys)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3m1-sys)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Donations
