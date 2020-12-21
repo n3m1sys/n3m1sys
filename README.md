@@ -4,7 +4,7 @@ My name is Martín, I'm a computer science engineering student at the National U
 
 ### What do I do?
 
-I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing, algorithms, compilers... I consider myself a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
+I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing, algorithms, compilers... I'm a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
 
 ### My college projects
 
