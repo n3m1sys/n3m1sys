@@ -12,6 +12,10 @@ Note: All of these projects are documented in spanish
 
 - https://github.com/n3m1-sys/Estad-PEC-Jun20-UNEDII-public : Some statistics exercises solved with an R Markdown notebook
 - https://github.com/n3m1-sys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
+- https://github.com/n3m1dotsys/PL1-PEC-Feb2021-UNEDII : A lexical and syntax analyizer for an invented language
+- https://github.com/n3m1dotsys/DS-PEC-Feb21-UNEDII : A Software Design exercise
+- https://github.com/n3m1dotsys/MinDatos-CP-Feb21-UNEDII : Some exercises about a machine learning paper
+- https://github.com/n3m1dotsys/SSBBDD-PEC-Feb21-UNEDII : Some exercises of Big Data management in a Hadoop environment
 
 ### My GiHub stats
 
