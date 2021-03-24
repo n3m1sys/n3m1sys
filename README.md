@@ -4,14 +4,14 @@ My name is Martín, I'm a computer science engineering student at the National U
 
 ### What do I do?
 
-I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing, algorithms, compilers... I'm a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
+I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing and algorithms. I'm a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
 
 ### My college projects
 
 Note: All of these projects are documented in spanish
 
-- https://github.com/n3m1-sys/Estad-PEC-Jun20-UNEDII-public : Some statistics exercises solved with an R Markdown notebook
-- https://github.com/n3m1-sys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
+- https://github.com/n3m1dotsys/Estad-PEC-Jun20-UNEDII-public : Some statistics exercises solved with an R Markdown notebook
+- https://github.com/n3m1dotsys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
 - https://github.com/n3m1dotsys/PL1-PEC-Feb2021-UNEDII : A lexical and syntax analyizer for an invented language
 - https://github.com/n3m1dotsys/DS-PEC-Feb21-UNEDII : A Software Design exercise
 - https://github.com/n3m1dotsys/MinDatos-CP-Feb21-UNEDII : Some exercises about a machine learning paper
