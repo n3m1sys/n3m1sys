@@ -16,6 +16,7 @@ Note: All of these projects are documented in spanish
 - https://github.com/n3m1dotsys/DS-PEC-Feb21-UNEDII : A Software Design exercise
 - https://github.com/n3m1dotsys/MinDatos-CP-Feb21-UNEDII : Some exercises about a machine learning paper
 - https://github.com/n3m1dotsys/SSBBDD-PEC-Feb21-UNEDII : Some exercises of Big Data management in a Hadoop environment
+- https://github.com/n3m1dotsys/Recursos-EPED : Data Structures and Algorithms
 
 ### My GiHub stats
 
