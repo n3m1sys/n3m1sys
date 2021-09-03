@@ -17,6 +17,9 @@ Note: All of these projects are documented in spanish
 - https://github.com/n3m1dotsys/MinDatos-CP-Feb21-UNEDII : Some exercises about a machine learning paper
 - https://github.com/n3m1dotsys/SSBBDD-PEC-Feb21-UNEDII : Some exercises of Big Data management in a Hadoop environment
 - https://github.com/n3m1dotsys/Recursos-EPED : Data Structures and Algorithms
+- https://github.com/n3m1dotsys/TLP-PEC-Jun21-UNEDII : Haskell exercise
+- https://github.com/n3m1dotsys/FIA-PEC2-Jun21-UNEDII : A fun AI to evaluate electoral results programmed in Prolog
+- https://github.com/n3m1dotsys/EPED-PEC-Jun21-UNEDII : A project about data structures
 
 ### My GiHub stats
 
