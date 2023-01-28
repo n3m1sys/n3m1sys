@@ -1,25 +1,15 @@
 ### Hi there 👋
 
-My name is Martín, I'm a computer science engineering student at the National University of Distance Education (UNED) in Spain.
+My name is Martín, a.k.a n3m1.sys on Internet. I'm a Cybersecyrity Consultan and Ethical Hacker.
 
 ### What do I do?
 
-I'm getting specialized in cybersecurity, but I'm also interested in many other fields of Computer Science, like quantum computing and algorithms. I'm a hacker, not one of those hoddie wearing criminals, but a person who likes to learn how things are made and how do they work.
+I do not program very frequently. Sometimes I develop exploit scripts, and simple programs to automate things.
 
-### My college projects
+### List of exploits I developed
 
-Note: All of these projects are documented in spanish
-
-- https://github.com/n3m1dotsys/Estad-PEC-Jun20-UNEDII-public : Some statistics exercises solved with an R Markdown notebook
-- https://github.com/n3m1dotsys/IC3-PEC-Sep20-UNEDII-Public : 2 VHDL exercises
-- https://github.com/n3m1dotsys/PL1-PEC-Feb2021-UNEDII : A lexical and syntax analyizer for an invented language
-- https://github.com/n3m1dotsys/DS-PEC-Feb21-UNEDII : A Software Design exercise
-- https://github.com/n3m1dotsys/MinDatos-CP-Feb21-UNEDII : Some exercises about a machine learning paper
-- https://github.com/n3m1dotsys/SSBBDD-PEC-Feb21-UNEDII : Some exercises of Big Data management in a Hadoop environment
-- https://github.com/n3m1dotsys/Recursos-EPED : Data Structures and Algorithms
-- https://github.com/n3m1dotsys/TLP-PEC-Jun21-UNEDII : Haskell exercise
-- https://github.com/n3m1dotsys/FIA-PEC2-Jun21-UNEDII : A fun AI to evaluate electoral results programmed in Prolog
-- https://github.com/n3m1dotsys/EPED-PEC-Jun21-UNEDII : A project about data structures
+- https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc
+- https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3
 
 ### My GiHub stats
 
