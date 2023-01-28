@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Martín, a.k.a n3m1.sys on Internet. I'm a Cybersecyrity Consultan and Ethical Hacker.
+My name is Martín, a.k.a n3m1.sys on Internet. I'm a cybersecurity consultant and ethical hacker.
 
 ### What do I do?
 
