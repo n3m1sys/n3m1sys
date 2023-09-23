@@ -20,3 +20,7 @@ I do not program very frequently. Sometimes I develop exploit scripts, and simpl
 Do you like what I do and want to support it? Consider making a donation here: 
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HEYSKQQA2R5XJ)
+
+### My achivements
+
+![eJPT](https://images.credential.net/badge/tiny/kyuu31wx_1695430592227_badge.png)
