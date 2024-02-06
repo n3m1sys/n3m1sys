@@ -8,12 +8,12 @@ I do not program very frequently. Sometimes I develop exploit scripts, and simpl
 
 ### List of exploits I developed
 
-- https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc
-- https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3
+- https://github.com/n3m1sys/CVE-2023-22809-sudoedit-privesc
+- https://github.com/n3m1sys/CVE-2018-16763-Exploit-Python3
 
 ### My GiHub stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3m1dotsys)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3m1sys)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Donations
 
