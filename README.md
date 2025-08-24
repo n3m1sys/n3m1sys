@@ -6,20 +6,14 @@ My name is Martín, a.k.a n3m1.sys on Internet. I'm a cybersecurity consultant a
 
 I do not program very frequently. Sometimes I develop exploit scripts, and simple programs to automate things.
 
-### List of exploits I developed
+### Projects
 
-- https://github.com/n3m1sys/CVE-2023-22809-sudoedit-privesc
-- https://github.com/n3m1sys/CVE-2018-16763-Exploit-Python3
+In Github you may find some old college projects and a few exploits. Since I decided to avoid using Microsoft products and platforms as much as I can I decided to migrate my projects to my personal git server at https://git.martecyber.com/. I will not remove anything I have here at the moment but I may do it in the future.
 
-### My GiHub stats
+Here are a few of the exploits a developed.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n3m1sys)](https://github.com/anuraghazra/github-readme-stats)
-
-### Donations
-
-Do you like what I do and want to support it? Consider making a donation here: 
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HEYSKQQA2R5XJ)
+- [https://git.martecyber.com/n3m1sys/CVE-2023-22809-sudoedit-privesc](https://git.martecyber.com/n3m1sys/CVE-2023-22809-sudoedit-privesc)
+- [https://git.martecyber.com/n3m1sys/CVE-2018-16763-Exploit-Python3](https://git.martecyber.com/n3m1sys/CVE-2018-16763-Exploit-Python3)
 
 ### My achivements
 
