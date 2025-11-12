@@ -8,7 +8,7 @@ I do not program very frequently. Sometimes I develop exploit scripts, and simpl
 
 ### Projects
 
-In Github you may find some old college projects and a few exploits. Since I decided to avoid using Microsoft products and platforms as much as I can I decided to migrate my projects to my personal git server at https://git.martecyber.com/. I will not remove anything I have here at the moment but I may do it in the future.
+In Github you may find some old college projects and a few exploits. 
 
 Here are a few of the exploits a developed.
 
