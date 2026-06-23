@@ -18,3 +18,4 @@ Here are a few of the exploits a developed.
 ### My achivements
 
 ![eJPT](https://images.credential.net/badge/tiny/kyuu31wx_1695430592227_badge.png)
+<img width="200" height="200" alt="CEHPRACTICAL_5FB43496785F" src="https://github.com/user-attachments/assets/a3cda4fb-fb33-4c27-9f6d-898d592ea08e" />
